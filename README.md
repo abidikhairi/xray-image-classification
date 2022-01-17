@@ -2,7 +2,7 @@
 
 This an introductory problem for image classfication using deep learning techniques such ConvNets. I used the [dataset](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia) from kaggle.
 
-I used `streamlit` for building th ui, where you can upload in image and get predictions.
+I used `streamlit` for building the ui, where you can upload in image and get predictions.
 
 ## Screenshots
 
@@ -15,6 +15,7 @@ I used `streamlit` for building th ui, where you can upload in image and get pre
 - pytorch
 
 ## Scripts
+- `train.py`: run training
 - `process.py`: generate csv metadata
 - `download.sh`: download the dataset from kaggle
 
